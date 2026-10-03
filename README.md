@@ -43,8 +43,6 @@
 
 현재 공개된 프로젝트는 없습니다. 새 프로젝트를 공개할 때는 직접 구현한 부분, 실행 방법, 실제 동작 결과와 한계를 함께 기록하겠습니다.
 
-## 🐛 잔디 먹는 애벌레
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sechang405-maker/sechang405-maker/output/caterpillar-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sechang405-maker/sechang405-maker/output/caterpillar.svg" />
