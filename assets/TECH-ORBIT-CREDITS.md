@@ -2,6 +2,8 @@
 
 The graphic uses embedded vector paths. It makes no network requests. Brand names and trademarks belong to their respective owners. Use here indicates technologies used or explored, not endorsement.
 
+The JavaScript, Next.js, and SearXNG markers added for Uhkegryo are original typographic or geometric markers drawn directly in this SVG; no external logo asset is embedded for them.
+
 ## Simple Icons
 
 Python, FastAPI, Pydantic, pytest, Supabase, PostgreSQL, TypeScript, React, Docker, Git, Qwen, Ollama, PyTorch, Streamlit, LangGraph and n8n paths are from [Simple Icons](https://github.com/simple-icons/simple-icons), released under [CC0-1.0](LICENSE-simple-icons.txt). Monochrome fills are adjusted for contrast on the dark background. Qwen is the Qwen brand icon; the label specifies Qwen3-TTS.

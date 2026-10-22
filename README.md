@@ -6,7 +6,7 @@ Python/FastAPI 기반 백엔드와 AI 모델 연동을 중심으로 프로젝트
 
 <!-- Animated, self-contained technology orbit. Full accessible toolkit is below. -->
 <p align="center">
-  <img src="assets/tech-orbit.svg" width="100%" alt="Sechang을 중심으로 기술 로고가 시계 방향으로 움직입니다. 안쪽 실선 궤도는 프로젝트 구현·연동에 사용한 Python, FastAPI, Pydantic, pytest, Supabase, PostgreSQL, TypeScript, React, Docker, Git, Qwen3-TTS, Ollama이며, 바깥 점선 궤도는 실습·탐색 중인 PyTorch, Streamlit, LangGraph, n8n, Langfuse입니다." />
+  <img src="assets/tech-orbit.svg" width="100%" alt="Sechang을 중심으로 기술 로고가 시계 방향으로 움직입니다. 안쪽 실선 궤도에는 기존 프로젝트 구현 기술이 있고, 바깥 궤도에는 어케그려에서 사용한 JavaScript, Next.js, SearXNG와 실습·탐색 기술, 프로젝트 관측에 사용한 Langfuse가 있습니다." />
 </p>
 
 ## 🧩 What I build
@@ -16,8 +16,8 @@ Python/FastAPI 기반 백엔드와 AI 모델 연동을 중심으로 프로젝트
 | ⚙️ Backend | FastAPI API, Pydantic 입력 검증, 비동기 작업 처리, 상태 조회와 임시 파일 정리 |
 | 🎙️ Speech & LLM | STT 작업 흐름, VAD 연동, TTS 스트리밍과 브라우저 재생, 로컬 LLM 연동 |
 | 🔐 Auth & Data | Supabase 인증, JWT 검증, SQL 마이그레이션, RLS와 비공개 Storage 접근 제어 |
-| 🖥️ Frontend & Integration | React·TypeScript API 연동, 기록 조회·상세·삭제, MCP 도구와 HTTP 인터페이스 |
-| 🧪 Quality & Delivery | pytest 테스트, 입력·출력 스키마 검증, PR 리뷰, Docker/Compose 실행과 배포 확인 |
+| 🖥️ Frontend & Integration | Next.js·React, JavaScript·TypeScript, CSS·SVG 인터랙션, MCP 도구와 HTTP 인터페이스 |
+| 🧪 Quality & Delivery | pytest 테스트, 입력·출력 스키마 검증, Langfuse 관측, Docker/Compose 실행과 배포 확인 |
 
 ## 🧰 Toolkit
 
@@ -25,8 +25,9 @@ Python/FastAPI 기반 백엔드와 AI 모델 연동을 중심으로 프로젝트
 
 - Backend: Python · FastAPI · Pydantic · pytest
 - Data: Supabase · PostgreSQL/SQL
-- Frontend: TypeScript · React · Web Audio API
-- AI & Tools: STT/TTS · Silero VAD · Qwen3-TTS · Ollama · MCP/FastMCP
+- Frontend: JavaScript · TypeScript · Next.js · React · CSS · SVG · Web Audio API
+- AI & Tools: STT/TTS · Silero VAD · Qwen3-TTS · Ollama · OpenAI API · MCP/FastMCP · SearXNG
+- Observability: Langfuse
 - Workflow: Git · GitHub · Docker · Docker Compose · Cloud Run · Vercel
 
 **모델·데모 실습**
@@ -36,7 +37,7 @@ Python/FastAPI 기반 백엔드와 AI 모델 연동을 중심으로 프로젝트
 
 **추가 실습·탐색**
 
-- LangGraph 기반 에이전트 흐름 · RAG/PGVector 검색 · n8n 자동화 · Langfuse 실행 추적·평가
+- LangGraph 기반 에이전트 흐름 · RAG/PGVector 검색 · n8n 자동화
 
 ## 🛠️ How I work
 
