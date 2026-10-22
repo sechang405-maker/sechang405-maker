@@ -1,6 +1,6 @@
 # 👋 Sechang
 
-`AI Application Developer` · 음성·LLM 기능을 웹 서비스에 연결합니다.
+LLM 기능을 웹 서비스에 연결합니다.
 
 Python/FastAPI 기반 백엔드와 AI 모델 연동을 중심으로 프로젝트를 만듭니다. 기능 구현과 함께 인증, 데이터 접근 제어, 예외 처리와 테스트를 다룹니다.
 
